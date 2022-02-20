@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexCioaca21
 - 👀 I’m interested in developing my coding passion.
-- 🌱 I’m currently learning JavaScript, but willing to learn Python and anything else.
+- 🌱 I have learned Javascript, and looking to develop this skill.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me alexandru.cioaca21@gmail.com
 
